@@ -1,0 +1,85 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Mis Metas y Etiquetas HTML</title>
+    <link rel="stylesheet" type="text/css" href="styles.css">
+</head>
+<body>
+
+
+    <h1>Mis Metas para este Año</h1>
+    <ul class="metas">
+        <li>Aprender un nuevo idioma.</li>
+        <li>Mejorar mi condición física.</li>
+        <li>Avanzar en mi carrera profesional.</li>
+        <li>Ahorrar para un viaje.</li>
+        <li>Leer al menos 10 libros.</li>
+        <li>Ser más organizado.</li>
+        <li>Conseguir empleo como programador para el proximo año.</li>
+        <li>Independizarme.</li>
+    </ul>
+
+    <h2>Reloj de Arena</h2>
+    <hr size=5 width=400 color="M41A1619" align=center>
+    <hr size=5 width=350 color="M41A1619" align=center>
+    <hr size=5 width=250 color="M41A1619" align=center>
+    <hr size=5 width=200 color="M41A1619" align=center>
+    <hr size=5 width=150 color="M41A1619" align=center>
+    <hr size=5 width=100 color="M41A1619" align=center>
+    <hr size=5 width=50 color="m:1A1819" align=center>
+    <hr size=5 width=100 color="M41A1619" align=center>
+    <hr size=5 width=150 color="M41A1619" align=center>
+    <hr size=5 width=200 color="M41A1619" align=center>
+    <hr size=5 width=250 color="M41A1619" align=center>
+    <hr size=5 width=350 color="M41A1619" align=center>
+    <hr size=5 width=400 color="M41A1619" align=center>
+
+
+    <h3>Lista Ordenada de Etiquetas HTML Nuevas</h3>
+    <ol class="etiquetas">
+        <li>&lt;header&gt;: Define la cabecera de un documento o sección.</li>
+        <li>&lt;nav&gt;: Define una sección de navegación en el documento.</li>
+        <li>&lt;main&gt;: Indica el contenido principal de un documento HTML.</li>
+        <li>&lt;section&gt;: Define una sección temática en el documento.</li>
+        <li>&lt;article&gt;: Define un contenido independiente y completo.</li>
+        <li>&lt;aside&gt;: Define contenido secundario o complementario.</li>
+        <li>&lt;footer&gt;: Define el pie de página de un documento o sección.</li>
+    </ol>
+    <h3>Top Jugadores de Futbol</h3>
+    <table border="1">
+        <tr>
+            <th>Imagen</th>
+            <th>Nombre</th>
+            <th>Descripción</th>
+        </tr>
+        <tr>
+            <td><img src="img/MESSI.jpg" alt="Imagen 1" width="100"></td>
+            <td><a href="enlace1.html">Lionel Messi</a></td>
+            <td>¿Quién es Messi resumen?
+Lionel Andrés Messi Cuccittini (Rosario, 24 de junio de 1987), conocido como Leo Messi, es un futbolista argentino que juega como delantero o centrocampista en el Inter Miami de la MLS de Estados Unidos. </td>
+        </tr>
+        <tr>
+            <td><img src="img/Cristiano_Ronaldo_2018.jpg" alt="Imagen 2" width="100"></td>
+            <td><a href="enlace2.html">Cristiano Ronaldo</a></td>
+            <td>Cristiano Ronaldo Dos Santos Aveiro, es un futbolista portugués que juega como delantero y es considerado como uno de los mejores delanteros del mundo del fútbol.</td>
+        </tr>
+        <tr>
+            <td><img src="img/2019-07-17_SG_Dynamo_Dresden_vs._Paris_Saint-Germain_by_Sandro_Halank–129_(cropped).jpg" alt="Imagen 3" width="100"></td>
+            <td><a href="enlace3.html">Kylian Mbappé</a></td>
+            <td>Comenzó su carrera con el AS Mónaco de la liga francesa, haciendo su debut profesional en 2015, a los 16 años. Con ellos ganó su primer título de la Ligue 1 y participó por primera vez en la Liga de Campeones de la UEFA. Fue reconocido con el premio al Jugador Joven del Año de la Ligue 1 y el premio Golden Boy</td>
+        </tr>
+        <tr>
+            <td><img src="img/uf_16788785694KoOHBrCq7rr63TdyzAQnHGMzP.jpg" alt="Imagen 4" width="100"></td>
+            <td><a href="enlace4.html">Erling Haaland</a></td>
+            <td>En su carrera acumula 221 goles en 277 partidos, con un promedio de 0.80. Desde su arribo al Manchester City de Pep Guardiola anotó 58 tantos en 59 encuentros (0,98), mientras que en su Selección tiene 28 gritos en 36 juegos.</td>
+        </tr>
+    </table>
+</body>
+</html>
+
+
+
+
+
